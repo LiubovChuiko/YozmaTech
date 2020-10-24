@@ -29,7 +29,6 @@ const NewsFeed = () => {
           initialNumToRender={5}
           windowSize={11}
           />
-          <Text>{ably}</Text>
       </View>
     )
 }
